@@ -1,0 +1,31 @@
+text,label
+Unable to login to my account,Technical
+Application crashes when opening,Technical
+Facing error 404 on website,Technical
+Internet connection is slow,Technical
+Password reset link not working,Technical
+Software installation failed,Technical
+Server is down since morning,Technical
+Bug found in latest update,Technical
+Getting timeout error,Technical
+App not responding properly,Technical
+Charged twice for my subscription,Billing
+Refund not received yet,Billing
+Invoice not generated for last month,Billing
+Payment failed but amount deducted,Billing
+Need receipt for my payment,Billing
+Billing amount is incorrect,Billing
+Subscription renewal issue,Billing
+Transaction status pending,Billing
+Late fee charged wrongly,Billing
+Want to cancel subscription,Billing
+What services do you provide?,General
+How can I contact customer support?,General
+Office working hours?,General
+Good morning team,General
+Need general information,General
+Where is your company located?,General
+How to create a new account?,General
+Tell me about your features,General
+Is there any free trial?,General
+Thank you for your help,General
