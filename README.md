@@ -22,10 +22,15 @@ Project Structure
 Smart_Text_Classifier_Streamlit/
 │
 ├── business_text_dataset.csv   # Labeled dataset
+
 ├── train_model.py              # Model training & evaluation
+
 ├── model.pkl                   # Saved trained model
+
 ├── app.py                      # Streamlit web application
+
 ├── requirements.txt            # Python dependencies
+
 └── README.md                   # Project documentation
 
 Machine Learning Methodology
